@@ -1,0 +1,12 @@
+Accuracy: 0.750
+
+                     precision    recall  f1-score   support
+
+       Data Analyst       0.50      1.00      0.67         1
+    DevOps Engineer       1.00      1.00      1.00         1
+Full Stack Engineer       0.00      0.00      0.00         1
+        ML Engineer       1.00      1.00      1.00         1
+
+           accuracy                           0.75         4
+          macro avg       0.62      0.75      0.67         4
+       weighted avg       0.62      0.75      0.67         4

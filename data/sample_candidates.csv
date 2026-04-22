@@ -1,0 +1,21 @@
+candidate_id,skills,target_role
+1,"Python,SQL,PowerBI,Data Analysis,Reporting",Data Analyst
+2,"Python,SQL,Excel,Tableau,Statistics",Data Analyst
+
+3,"Python,SQL,ETL,Data Pipelines,Airflow, Apache Spark",Data Engineer
+4,"Python,SQL,Docker,ETL,Data Warehousing,Data Lake",Data Engineer
+
+5,"JavaScript,React,HTML,CSS,UI Design, React",Frontend Engineer
+6,"JavaScript,React,TypeScript,HTML,CSS",Frontend Engineer
+
+7,"Node.js,Express,REST APIs,PostgreSQL,SQL,JavaScript",Backend Engineer
+8,"Java,Spring,REST APIs,SQL,Docker",Backend Engineer
+
+9,"JavaScript,React,Node.js,Express,SQL,REST APIs, C#, .Net",Full Stack Engineer
+10,"React,TypeScript,Node.js,PostgreSQL,SQL",Full Stack Engineer
+
+11,"Python,TensorFlow,Machine Learning,Model Training,NumPy",ML Engineer
+12,"Python,PyTorch,Machine Learning,Model Evaluation,Deep Learning",ML Engineer
+
+13,"Docker,Kubernetes,AWS,CI/CD,Linux",DevOps Engineer
+14,"Terraform,AWS,Docker,Kubernetes,Infrastructure",DevOps Engineer
